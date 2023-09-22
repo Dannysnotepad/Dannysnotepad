@@ -16,7 +16,6 @@ I'm a junior frontend web developer who is eager to learn and grow in the world 
 ## Social Links
 
 - WhatsApp: [+2348076488738](https://wa.me/2348025089292)
-/*- Facebook: [mikelneonedwin](https://fb.me/mikelneonedwin)*/
 - Email: 
   - Personal: [etimdnl41@gmail.com](mailto:etimdnl41@gmail.com)
   - Alternate: [etimdnl@gmail.com](mailto:etimdnl@gmail.com)
