@@ -1,17 +1,17 @@
-# Etim Daniel - Frontend Web Developer
+# Etim Daniel - Backend Web / Restful API Developer
 
-Hello there! 👋 I'm Etim Daniel, a frontend web developer with a passion for creating amazing user interfaces and delightful web experiences. I love building things, and I'm always excited about taking on new challenges.
+Hello there! 👋 I'm Etim Daniel, a backend web / restful API developer with a passion for creating amazing secure and safe website backend / APIS to make the user have a delightful web experiences. I love building things, and I'm always excited about taking on new challenges.
 
 ## Technologies & Tools
 
 - Frontend: HTML, CSS, JavaScript,
-- Database: Firebase Realtime Database(in progress)
-- Hosting: Vercel
-- Others: Java
+- Database: Firebase Realtime Database & Postgress (in progress)
+- Hosting: Vercel / Render
+- Others: Java / Kotlin
 
 ## About Me
 
-I'm a junior frontend web developer who is eager to learn and grow in the world of web development. My journey began with Java then I resorted to HTML, CSS, and JavaScript, and I've come a long way since then. Moreover, I use Vercel for hosting my web projects.
+I'm a junior backend web / Restful API developer who is eager to learn and grow in the world of backend web / API development. My journey began with Java then I resorted to HTML, CSS, and JavaScript, and I've come a long way since then. Moreover, I use Vercel for hosting my web projects.
 
 ## Social Links
 
@@ -22,7 +22,7 @@ I'm a junior frontend web developer who is eager to learn and grow in the world 
 
 ## Current Focus
 
-I am currently learning backend development with Node.js and Express to build robust server-side applications. After mastering backend development, I plan to delve into MongoDB for database management, enabling me to create full-stack web applications that integrate a variety of technologies.
+I am currently learning backend development with Node.js and Express to build robust server-side applications. After mastering backend development, I plan to delve into firebase / postgress for database management, enabling me to create rich server side web applications that integrate a variety of technologies.
 
 ## Future Endeavors
 
